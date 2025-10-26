@@ -60,6 +60,11 @@ The application uses an efficient algorithm to check whether a number is prime:
 - Eliminates even numbers greater than 2.
 - Checks divisibility up to the square root of the input number, skipping even numbers.
 
+
+## Author
+
+Lovingly crafted by [Hanka Robovska](https://github.com/hrosicka)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
